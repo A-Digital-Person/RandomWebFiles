@@ -1,4 +1,4 @@
-'[
+[
     {
         team: "Red",
         color: 'red',
@@ -167,4 +167,4 @@
         player4Name: noplayer,
         player4UUID: noskin,
     };
-]'
+]
